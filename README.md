@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="developer.gif"/>
+  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
 </p>
 
 

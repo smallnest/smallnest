@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+  <img align="center" src="developer.gif"/>
 </p>
 
 
